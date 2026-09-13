@@ -45,7 +45,7 @@ Step 4: Compile and Flash
 *   Plug in your ESP32
 *   Click on the dropdown next to the Start Debugging button, and select Select other board on port
 *   In the boards section, type in what every esp32 you are using, and then select the com port in the ports side
-*   Note: if you don't see any port on the side, makew sure your cable can transfer data, if that still doesn't work, install the ESP32 driver at this[](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
+*   Note: if you don't see any port on the side, makew sure your cable can transfer data, if that still doesn't work, install the ESP32 driver at this [link](https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads)
 *   Click the Upload button and wait for it to compile and flash to the ESP32
 *   Once finished, go to your SuperDMZ tunnel dashboard, and select the SUPERDMZ URL, paste it into your URL bar in your web browser and press enter
 *   If it says somethign like Your connection is not private, click Advanced, and then proceed to the website, this might change depending on your browser, but it will be similar to what I explained
