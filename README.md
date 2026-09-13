@@ -49,5 +49,5 @@ Step 4: Compile and Flash
 *   Click the Upload button and wait for it to compile and flash to the ESP32
 *   Once finished, go to your SuperDMZ tunnel dashboard, and select the SUPERDMZ URL, paste it into your URL bar in your web browser and press enter
 *   If it says somethign like Your connection is not private, click Advanced, and then proceed to the website, this might change depending on your browser, but it will be similar to what I explained
-*   If you can connect, and the webpage shows, Viola! Your ESP32 is publically accessible!
+*   If you can connect, and the webpage shows, Viola! Your ESP32 website is publicly accessible!
 *   Send the link to a friend or family memebr to test out, or test it on your phone, using your mobile data and not your Wi-Fi to make sure anyone can see it
